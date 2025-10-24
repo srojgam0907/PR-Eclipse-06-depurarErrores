@@ -6,6 +6,8 @@
 En la función pedirTemperatura el codigo nunca va a entrar en el if y nunca se va a repetir el bucle si el número introducido es incorrecto por que el operador logico que usa es un && (AND) y un valor no puede ser a la vez menor que -10 y mayor que 50. Lo he arreglado cambiando el operador lógico por un || (OR).
 
 Vista de las variables mientras hacia el debug
+![error de pedirTemperatura](img/pedirTemperatura.png)
+
 
 
 
